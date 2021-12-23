@@ -1,0 +1,39 @@
+        .img {
+            width: 100px;
+            border-radius: 50px;
+            float: left;
+            margin-right: 10px;
+        }
+        .body{
+            background-color: greenyellow;
+        }
+        a.username{
+            font-weight: bold;
+        }
+        .em{
+            color: brown;
+            font-style: normal;
+            font-size: medium;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        .ch{
+color: red;
+font-style: italic;
+font-size: large;
+font-weight: 600;
+        }
+        .happy{
+color: seagreen;
+font-style: italic;
+font-weight: 600;
+font-size: large;
+        }
+        .namimg{
+            text-align: right;
+            align-items: center;
+            align-self: flex-end;
+            width: 50px;
+            border-radius: 50px;
+            float: left;
+            margin-right: 10px;
+        }
